@@ -7,7 +7,7 @@
 
 - 🌱 I'm a little CS student just beginning my college journey
 - 📚 Learning the fundamentals and exploring lots of different languages/frameworks along the way
-- 💻 I just like building(supposed to by my hobby lol)
+- 💻 I just like building(supposed to be my hobby lol)
 - 🍟 I like hashbrowns and fries :)
 
 ### 🔭 Currently working on
