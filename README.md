@@ -5,6 +5,7 @@
 
 ### 👋 About Me
 
+
 - 🌱 I'm a little CS student just beginning my college journey
 - 📚 Learning the fundamentals and exploring lots of different languages/frameworks along the way
 - 💻 I just like building(supposed to be my hobby lol)
@@ -69,5 +70,3 @@ Learning the ropes of software development — trying things out across web, mob
 
 ---
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mist10148&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
