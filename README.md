@@ -12,8 +12,13 @@
 - 💻 I just like building(supposed to be my hobby lol)
 - 🍟 I like hashbrowns and fries :)
 
-### 🔭 Currently working on
-Learning the ropes of software development — trying things out across web, mobile, and game dev to figure out what clicks. *(edit this to whatever project you're on!)*
+
+### 🔭 What I Build
+ 
+- 🤖 Integrating AI into applications and websites
+- 🏢 Building CRMs & ERPs
+- 🧠 Training models
+- 🎮 Games :)
 
 ### 🛠️ Tech Stack
 
