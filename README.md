@@ -18,6 +18,7 @@
 - 🤖 Integrating AI into applications and websites
 - 🏢 Building CRMs & ERPs
 - 🧠 Training models
+- 🛠️ I build automations because I like doing nothing and being lazy : D
 - 🎮 Games :)
 
 ### 🛠️ Tech Stack
