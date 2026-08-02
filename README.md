@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mist10148</h1>
+<h1 align="center">Hi 👋, I'm Little Mist</h1>
 <h3 align="center">A beginner Computer Science student, just starting out in college 🎓</h3>
 
 ---
