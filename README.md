@@ -78,9 +78,7 @@
 ---
 
 <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mist10148&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /> </p>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mist10148&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mist10148&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mist10148&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mist10148&theme=tokyo-night&hide_border=true&from=2020-11-09&to=2026-08-18" alt="Contribution Graph" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mist10148&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
