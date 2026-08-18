@@ -77,6 +77,10 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mist10148&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /> </p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mist10148&theme=tokyo-night&hide_border=true&from=2025-11-09&to=2026-08-18" alt="Contribution Graph" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mist10148&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mist10148&theme=tokyo-night&hide_border=true&from=2025-08-18&to=2026-08-18" alt="Contribution Graph" />
+</p>
 
