@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Little Mist</h1>
-<h3 align="center">A beginner Computer Science student, just starting out in college 🎓</h3>
+<h1 align="center">Hi, I'm Little Mist</h1>
+<h3 align="center">A beginner Computer Science student, just starting out in college</h3>
 
 ---
 
-### 👋 About Me
+### About Me
 
-- 🔭 I aspire to be a pilot(lol)
-- 🛠️ I'm lazy and I legit just want to sleep all day
-- 🌱 I'm a little CS student just beginning my college journey
-- 📚 Learning the fundamentals and exploring lots of different languages/frameworks along the way
-- 💻 I just like building(supposed to be my hobby lol)
-- 🍟 I like hashbrowns and fries :)
+- I aspire to be a pilot (lol)
+- I'm lazy and I legit just want to sleep all day
+- I'm a little CS student just beginning my college journey
+- Learning the fundamentals and exploring lots of different languages/frameworks along the way
+- I just like building (supposed to be my hobby lol)
+- I like hashbrowns and fries :)
 
 
-### 🔭 What I Build
+### What I Build
  
-- 🤖 Integrating AI into applications and websites
-- 🏢 Building CRMs & ERPs
-- 🧠 Training models
-- 🛠️ I build automations because I like doing nothing and being lazy : D
-- 🎮 Games :)
+- Integrating AI into applications and websites
+- Building CRMs & ERPs
+- Training models
+- I build automations because I like doing nothing and being lazy : D
+- Games :)
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Web**
 
@@ -77,4 +77,10 @@
 
 ---
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Mist10148&theme=tokyonight&hide_border=true&starting_year=2026&mode=weekly" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mist10148&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mist10148&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mist10148&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mist10148&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> </p>
